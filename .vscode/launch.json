@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringCheck",
+            "request": "launch",
+            "mainClass": "StringCheck",
+            "projectName": "java_903337e8"
+        }
+    ]
+}
